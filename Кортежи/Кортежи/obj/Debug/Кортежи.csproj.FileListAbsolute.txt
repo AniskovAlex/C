@@ -1,0 +1,9 @@
+C:\Users\Александр\source\repos\Кортежи\Кортежи\bin\Debug\Кортежи.exe.config
+C:\Users\Александр\source\repos\Кортежи\Кортежи\bin\Debug\Кортежи.exe
+C:\Users\Александр\source\repos\Кортежи\Кортежи\bin\Debug\Кортежи.pdb
+C:\Users\Александр\source\repos\Кортежи\Кортежи\obj\Debug\Кортежи.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Кортежи\Кортежи\obj\Debug\Кортежи.Form1.resources
+C:\Users\Александр\source\repos\Кортежи\Кортежи\obj\Debug\Кортежи.Properties.Resources.resources
+C:\Users\Александр\source\repos\Кортежи\Кортежи\obj\Debug\Кортежи.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Кортежи\Кортежи\obj\Debug\Кортежи.exe
+C:\Users\Александр\source\repos\Кортежи\Кортежи\obj\Debug\Кортежи.pdb
